@@ -21,7 +21,7 @@ For fill_form.py, you need to create a new CSV, 'trip-records-no-europe.csv', wh
 
 ### Footnotes
 
-Note: This may not succeed 100% of the time, and the bot can do some crazy weird things. I highly highly recommend being next to your computer and watching the bot while it runs. Definitely not from personal experience while tuning the bot. Definitely. Anyway, if this happens, move your cursor all the way to the toppest rightest corner of your screen and wait for 10 seconds. It should be terminated. 
+Note: The fill_form bot may not succeed 100% of the time, and the bot can do some crazy weird things. I highly highly recommend being next to your computer and watching the bot while it runs. Definitely not from personal experience while tuning the bot. Definitely. Anyway, if this happens, move your cursor all the way to the toppest rightest corner of your screen and wait for 10 seconds. It should be terminated. 
 
 
 Note 2: You may face an error that some directories/folders do not exist. If you face those errors, remove the following line: 
